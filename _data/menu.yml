@@ -35,13 +35,16 @@ entries:
 
   - title: BUG HUNTING - UPCOMING
     entries:
-      - title: [CVE-2021-2086](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-2086), Oracle VirtualBox IOCTL Request Denial-of-Service Vulnerability
+      - title: CVE-2021-2086, Oracle VirtualBox IOCTL Request Denial-of-Service Vulnerability
+        url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-2086
       - title: Ticket#11945, Polaris Office PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
-      - title: [CVE-2021-34280](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-34280), Polaris Office PDF File Parsing Uninitialized Pointer Remote Code Execution Vulnerability
+      - title: CVE-2021-34280, Polaris Office PDF File Parsing Uninitialized Pointer Remote Code Execution Vulnerability
+        url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-34280
       - title: CVE-ID T.B.D, Foxit PDF Reader Javascript API Command Injection Remote Code Execution Vulnerability
       - title: CVE-ID T.B.D, Foxit PDF Reader Javascript API Command Injection Remote Code Execution Vulnerability
       - title: CVE-ID T.B.D, Foxit PDF Reader XFA Form Command Injection Remote Code Execution Vulnerability
-      - title: [CVE-2021-34973](https://www.zerodayinitiative.com/advisories/ZDI-21-1204/), Foxit PDF Reader PDF File Parsing Use-After-Free Information Disclosure Vulnerability (ZDI)
+      - title: CVE-2021-34973, Foxit PDF Reader PDF File Parsing Use-After-Free Information Disclosure Vulnerability (ZDI)
+        url: https://www.zerodayinitiative.com/advisories/ZDI-21-1204/
 
   - title: BUG HUNTING - PUBLISHED
     entries:
