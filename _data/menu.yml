@@ -2,37 +2,54 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: DOHYUN LEE
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
-
-  - title: all posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
-
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
-
-  - title: rss
-    url: feed.xml
-  
-  - title: another list
-    entries:
-      - title: with subitems
+      - title: MAIL
         entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
+          - title: admin@fuzzing.kr & ctf@kakao.com & pwnable@korea.ac.kr
+      - title: GITHUB
+        entries:
+          - title: dlehgus1023
+            url: https://github.com/dlehgus1023
+      - title: TWITTER
+        entries:
+          - title: @l33d0hyun
+            url: https://twitter.com/l33d0hyun
+      - title: BLOG
+        entries:
+          - title: My blog~
+            url: https://fuzzing.kr/
+
+  - title: EDUCATION
     entries:
-      - title: to edit this menu, edit _data/menu.yml file
+      - title: Koea University, Sejong Campus (2021.03 ~ Now)
+        url: https://sejong.korea.ac.kr/
+      - title: KITRI "BEST OF THE BEST" 9th Vulnerability Analysis (2020.07 ~ 2021.03)
+        url: https://kitribob.wiki/
+
+  - title: CTF
+    entries:
+      - title: WhiteHat Contest 2019, Finalist
+      - title: WhiteHat Contest 2020, Finalist
+      - title: Information Security Olympiad 2020, Bronze Prize
+
+  - title: BUG HUNTING - UPCOMING
+    entries:
+      - title: [CVE-2021-2086](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-2086), Oracle VirtualBox IOCTL Request Denial-of-Service Vulnerability
+      - title: Ticket#11945, Polaris Office PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
+      - title: [CVE-2021-34280](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-34280), Polaris Office PDF File Parsing Uninitialized Pointer Remote Code Execution Vulnerability
+      - title: CVE-ID T.B.D, Foxit PDF Reader Javascript API Command Injection Remote Code Execution Vulnerability
+      - title: CVE-ID T.B.D, Foxit PDF Reader Javascript API Command Injection Remote Code Execution Vulnerability
+      - title: CVE-ID T.B.D, Foxit PDF Reader XFA Form Command Injection Remote Code Execution Vulnerability
+      - title: [CVE-2021-34973](https://www.zerodayinitiative.com/advisories/ZDI-21-1204/), Foxit PDF Reader PDF File Parsing Use-After-Free Information Disclosure Vulnerability (ZDI)
+
+  - title: BUG HUNTING - PUBLISHED
+    entries:
+      - title: ZDI-CAN-14819, Foxit PDF Reader T.B.A Information Disclosure Vulnerability (ZDI)
+      - title: ZDI-CAN-14848, Foxit PDF Reader T.B.A Remote Code Execution Vulnerability (ZDI)
+      - title: ZDI-CAN-15299, Foxit PDF Reader T.B.A Information Disclosure Vulnerability (ZDI)
+      - title: T.B.A, Oracle VirtualBox T.B.A Denial-of-Service Vulnerability (Open 2021.10.19, KST-2020.10.20)
+      - title: T.B.D, Foxit PDF Reader T.B.A Remote Code Execution Vulnerability (ZDI)
+      - title: T.B.D, Apple WebKit T.B.A Remote Code Execution Vulnerability (ZDI) 
+      - title: T.B.D, Nitro Pro T.B.A Remote Code Execution Vulnerability
+      - title: T.B.D, Nitro Pro T.B.A Remote Code Execution Vulnerability
