@@ -13,11 +13,11 @@ entries:
             url: https://github.com/dlehgus1023
       - title: TWITTER
         entries:
-          - title: @l33d0hyun
+          - title: l33d0hyun
             url: https://twitter.com/l33d0hyun
       - title: BLOG
         entries:
-          - title: My blog~
+          - title: My blog
             url: https://fuzzing.kr/
 
   - title: EDUCATION
