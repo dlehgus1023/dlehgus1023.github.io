@@ -20,6 +20,7 @@ entries:
           - title: My blog
             url: https://fuzzing.kr/
 
+
   - title: EDUCATION
     entries:
       - title: Koea University, Sejong Campus (2021.03 ~ Now)
@@ -27,11 +28,13 @@ entries:
       - title: KITRI "BEST OF THE BEST" 9th Vulnerability Analysis (2020.07 ~ 2021.03)
         url: https://kitribob.wiki/
 
+
   - title: CTF
     entries:
       - title: WhiteHat Contest 2019, Finalist
       - title: WhiteHat Contest 2020, Finalist
       - title: Information Security Olympiad 2020, Bronze Prize
+
 
   - title: BUG HUNTING - UPCOMING
     entries:
@@ -45,6 +48,7 @@ entries:
       - title: CVE-ID T.B.D, Foxit PDF Reader XFA Form Command Injection Remote Code Execution Vulnerability
       - title: CVE-2021-34973, Foxit PDF Reader PDF File Parsing Use-After-Free Information Disclosure Vulnerability (ZDI)
         url: https://www.zerodayinitiative.com/advisories/ZDI-21-1204/
+
 
   - title: BUG HUNTING - PUBLISHED
     entries:
