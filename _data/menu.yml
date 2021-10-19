@@ -2,20 +2,20 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: DOHYUN LEE
+  - title: DoHyun Lee
     entries:
-      - title: MAIL
+      - title: Mail
         entries:
           - title: admin@fuzzing.kr & ctf@kakao.com & pwnable@korea.ac.kr
-      - title: GITHUB
+      - title: Github
         entries:
           - title: dlehgus1023
             url: https://github.com/dlehgus1023
-      - title: TWITTER
+      - title: Twitter
         entries:
           - title: l33d0hyun
             url: https://twitter.com/l33d0hyun
-      - title: BLOG
+      - title: Blog
         entries:
           - title: My blog
             url: https://fuzzing.kr/
@@ -36,7 +36,7 @@ entries:
       - title: Information Security Olympiad 2020, Bronze Prize
 
 
-  - title: BUG HUNTING - UPCOMING
+  - title: BUG HUNTING - PUBLISHED
     entries:
       - title: CVE-2021-2086, Oracle VirtualBox IOCTL Request Denial-of-Service Vulnerability
         url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-2086
@@ -50,7 +50,7 @@ entries:
         url: https://www.zerodayinitiative.com/advisories/ZDI-21-1204/
 
 
-  - title: BUG HUNTING - PUBLISHED
+  - title: BUG HUNTING - UPCOMING
     entries:
       - title: ZDI-CAN-14819, Foxit PDF Reader T.B.A Information Disclosure Vulnerability (ZDI)
       - title: ZDI-CAN-14848, Foxit PDF Reader T.B.A Remote Code Execution Vulnerability (ZDI)
