@@ -48,14 +48,13 @@ entries:
       - title: CVE-ID T.B.D, Foxit PDF Reader XFA Form Command Injection Remote Code Execution Vulnerability
       - title: CVE-2021-34973, Foxit PDF Reader PDF File Parsing Use-After-Free Information Disclosure Vulnerability (ZDI)
         url: https://www.zerodayinitiative.com/advisories/ZDI-21-1204/
-
+      - title: CVE-2021-35540, Oracle VirtualBox IOCTL Request Denial-of-Service Vulnerability
 
   - title: BUG HUNTING - UPCOMING
     entries:
       - title: ZDI-CAN-14819, Foxit PDF Reader T.B.A Information Disclosure Vulnerability (ZDI)
       - title: ZDI-CAN-14848, Foxit PDF Reader T.B.A Remote Code Execution Vulnerability (ZDI)
       - title: ZDI-CAN-15299, Foxit PDF Reader T.B.A Information Disclosure Vulnerability (ZDI)
-      - title: T.B.A, Oracle VirtualBox T.B.A Denial-of-Service Vulnerability (Open 2021.10.19, KST-2020.10.20)
       - title: T.B.D, Foxit PDF Reader T.B.A Remote Code Execution Vulnerability (ZDI)
       - title: T.B.D, Apple WebKit T.B.A Remote Code Execution Vulnerability (ZDI) 
       - title: T.B.D, Nitro Pro T.B.A Remote Code Execution Vulnerability
