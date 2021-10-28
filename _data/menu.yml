@@ -39,7 +39,7 @@ entries:
   - title: BUG HUNTING - PUBLISHED
     entries:
       - title: CVE-2021-2086, Oracle VirtualBox IOCTL Request Denial-of-Service Vulnerability
-        url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-2086
+        url: https://www.oracle.com/security-alerts/cpujan2021.html
       - title: Ticket#11945, Polaris Office PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability
       - title: CVE-2021-34280, Polaris Office PDF File Parsing Uninitialized Pointer Remote Code Execution Vulnerability
         url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-34280
@@ -49,6 +49,7 @@ entries:
       - title: CVE-2021-34973, Foxit PDF Reader PDF File Parsing Use-After-Free Information Disclosure Vulnerability (ZDI)
         url: https://www.zerodayinitiative.com/advisories/ZDI-21-1204/
       - title: CVE-2021-35540, Oracle VirtualBox IOCTL Request Denial-of-Service Vulnerability
+        url: https://www.oracle.com/security-alerts/cpuoct2021.html
 
   - title: BUG HUNTING - UPCOMING
     entries:
