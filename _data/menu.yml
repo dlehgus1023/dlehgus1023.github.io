@@ -44,8 +44,11 @@ entries:
       - title: CVE-2021-34280, Polaris Office PDF File Parsing Uninitialized Pointer Remote Code Execution Vulnerability
         url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-34280
       - title: CVE-ID T.B.D, Foxit PDF Reader Javascript API Command Injection Remote Code Execution Vulnerability
+        url: https://www.foxitsoftware.com/support/security-bulletins.html
       - title: CVE-ID T.B.D, Foxit PDF Reader Javascript API Command Injection Remote Code Execution Vulnerability
+        url: https://www.foxitsoftware.com/support/security-bulletins.html
       - title: CVE-ID T.B.D, Foxit PDF Reader XFA Form Command Injection Remote Code Execution Vulnerability
+        url: https://www.foxitsoftware.com/support/security-bulletins.html
       - title: CVE-2021-34973, Foxit PDF Reader PDF File Parsing Use-After-Free Information Disclosure Vulnerability (ZDI)
         url: https://www.zerodayinitiative.com/advisories/ZDI-21-1204/
       - title: CVE-2021-35540, Oracle VirtualBox IOCTL Request Denial-of-Service Vulnerability
